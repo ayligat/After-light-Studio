@@ -1,0 +1,51 @@
+h1 {
+
+font: size 30px; 
+color: rgb(0, 0, 0)
+}
+
+
+p {
+    /*смена шрифта*/
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+
+img {
+    /*ширина*/
+    width: 100%; 
+}
+
+.dark_link{
+  display: block;
+  margin: 0 auto;
+  width: 15%;
+  
+}
+img.Dark_corridors {
+
+    height: 200px;
+}
+h1.Dark_corridors {
+  text-align: center;
+}
+.game_background {
+  height: 730px;
+  background-image: url("https://kartinkin.net/uploads/posts/2021-07/1627096167_23-kartinkin-com-p-dzhoistiki-fon-krasivo-26.jpg");
+  background-size: 100% ;
+  
+}
+h2 {
+color:rgb(47, 74, 92)
+}
+div.gif {
+  background-image: url("https://thumbs.gfycat.com/BackIllinformedAsianelephant-size_restricted.gif");
+  height: 900px;
+}
+img.Cube_Escape {
+    width: 15%;
+    height: 220px;  
+}
+body {
+min-width: 1200px;
+}
